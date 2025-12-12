@@ -1,0 +1,17 @@
+[project]
+name = "eda-cli"
+version = "0.1.0"
+description = "Mini EDA CLI project"
+authors = [{ name = "Vashe imya", email = "Primer@example.com" }]
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0"
+numpy = "^1.26"
+matplotlib = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.4"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

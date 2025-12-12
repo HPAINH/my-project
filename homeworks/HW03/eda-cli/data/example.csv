@@ -1,0 +1,37 @@
+user_id,country,city,device,channel,sessions_last_30d,avg_session_duration_min,pages_per_session,purchases_last_30d,revenue_last_30d,churned,signup_year,plan,n_support_tickets
+1001,RU,Moscow,Desktop,Organic,25,12.5,6.2,3,4500.0,0,2021,Pro,1
+1002,RU,Saint Petersburg,Mobile,Ads,5,4.2,3.1,0,0.0,1,2020,Free,0
+1003,KZ,Almaty,Desktop,Referral,12,8.3,5.0,1,1200.0,0,2022,Basic,2
+1004,BY,Minsk,Mobile,Organic,18,9.1,4.7,2,2600.5,0,2021,Pro,0
+1005,RU,Moscow,Tablet,Email,3,3.0,2.2,0,0.0,1,2019,Free,1
+1006,RU,Novosibirsk,Mobile,Organic,9,6.0,4.0,1,800.0,0,2023,Basic,0
+1007,UA,Kyiv,Desktop,Ads,14,7.5,4.8,1,1500.0,0,2022,Basic,3
+1008,RU,Moscow,Desktop,Referral,34,15.2,7.1,4,6200.0,0,2020,Pro,2
+1009,KZ,Astana,Mobile,Organic,7,5.1,3.5,0,0.0,1,2021,Free,0
+1010,RU,Yekaterinburg,Desktop,Email,11,7.0,4.3,1,1100.0,0,2022,Basic,1
+1011,RU,Moscow,Mobile,Ads,20,10.0,5.6,2,3000.0,0,2021,Pro,4
+1012,BY,Minsk,Desktop,Organic,2,2.5,1.8,0,0.0,1,2018,Free,0
+1013,RU,Kazan,Mobile,Organic,16,9.8,4.9,2,2100.0,0,2020,Basic,1
+1014,UA,Lviv,Desktop,Referral,8,6.2,3.7,1,900.0,0,2023,Basic,0
+1015,RU,Saint Petersburg,Tablet,Ads,4,3.8,2.9,0,0.0,1,2019,Free,2
+1016,RU,Moscow,Desktop,Organic,27,13.1,6.8,3,4800.0,0,2021,Pro,1
+1017,KZ,Almaty,Mobile,Email,6,4.9,3.3,0,0.0,1,2020,Free,0
+1018,RU,Rostov-on-Don,Desktop,Organic,10,6.9,4.1,1,950.0,0,2022,Basic,2
+1019,RU,Moscow,Mobile,Referral,22,11.3,5.9,2,3400.0,0,2020,Pro,1
+1020,BY,Gomel,Desktop,Ads,5,4.1,3.0,0,0.0,1,2019,Free,0
+1021,RU,,Mobile,Organic,13,7.4,4.4,1,1300.0,0,2022,Basic,1
+1022,RU,Moscow,Desktop,Organic,0,,1.0,0,0.0,1,2024,Free,0
+1023,UA,Kyiv,Mobile,Ads,19,8.7,5.2,2,2800.0,0,2021,Pro,3
+1024,KZ,Astana,Desktop,Referral,15,9.0,4.6,1,1700.0,0,2020,Basic,1
+1025,RU,Moscow,Tablet,Email,3,3.0,2.2,0,0.0,1,2019,Free,1
+1025,RU,Moscow,Tablet,Email,3,3.0,2.2,0,0.0,1,2019,Free,1
+1026,RU,Krasnoyarsk,Mobile,Organic,9,,3.9,1,700.0,0,2023,Basic,0
+1027,BY,Minsk,Desktop,Organic,21,10.5,5.5,2,3200.0,0,2021,Pro,1
+1028,RU,Moscow,Mobile,Ads,1,2.0,1.5,0,0.0,1,2024,Free,0
+1029,UA,,Desktop,Referral,7,5.5,3.4,1,800.0,0,2022,Basic,2
+1030,RU,Saint Petersburg,Desktop,Organic,18,9.4,4.9,2,2600.0,0,2020,Pro,1
+1031,KZ,Almaty,Mobile,Ads,11,7.1,4.2,1,1400.0,0,2021,Basic,0
+1032,RU,Moscow,Desktop,Organic,30,14.0,7.5,4,7000.0,0,2019,Pro,5
+1033,RU,Perm,Mobile,Email,4,3.5,2.6,0,0.0,1,2023,Free,0
+1034,BY,Brest,Desktop,Organic,6,4.8,3.2,1,850.0,0,2022,Basic,1
+1035,UA,Odessa,Mobile,Organic,12,8.0,4.4,1,1300.0,0,2021,Basic,1
